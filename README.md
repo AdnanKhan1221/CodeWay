@@ -1,2 +1,4 @@
 # CodeWay
-NumberGuessingQuiz
+NumberGuessingGame
+GradeCalculator
+Quiz
